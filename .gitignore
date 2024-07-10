@@ -1,0 +1,9 @@
+Model_from_scratch/SVM/data/
+Model_from_scratch/CNN/data/augmented_data/
+Model_from_scratch/CNN/data/brain_tumor_dataset/
+Model_from_scratch/CNN/data/yes/
+Model_from_scratch/CNN/data/no/
+Model_from_scratch/CNN/data/tumorous_and_nontumorous/
+Model_from_scratch/CNN/model_weights/
+Model_from_scratch/RNN/data/
+Model_from_scratch/AutoEncoder/model/
